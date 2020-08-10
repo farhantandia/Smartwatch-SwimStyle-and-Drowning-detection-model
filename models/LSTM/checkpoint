@@ -1,0 +1,2 @@
+model_checkpoint_path: "100_20_6_3_nomag.chkp"
+all_model_checkpoint_paths: "100_20_6_3_nomag.chkp"
