@@ -1,2 +1,2 @@
-model_checkpoint_path: "200_40_6_3_nomag.chkp"
-all_model_checkpoint_paths: "200_40_6_3_nomag.chkp"
+model_checkpoint_path: "250_50_6_3_new.chkp"
+all_model_checkpoint_paths: "250_50_6_3_new.chkp"
