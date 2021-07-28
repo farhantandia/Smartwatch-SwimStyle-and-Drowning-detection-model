@@ -1,2 +1,2 @@
-model_checkpoint_path: "240_40_6_3_new.chkp"
-all_model_checkpoint_paths: "240_40_6_3_new.chkp"
+model_checkpoint_path: "100_10_5_3.chkp"
+all_model_checkpoint_paths: "100_10_5_3.chkp"
